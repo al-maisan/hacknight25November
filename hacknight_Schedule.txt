@@ -1,0 +1,9 @@
+17:30 - 17:45 Getting started with Core API and Python :: Andy Moore
+17:50 - 18:05 Nova Baremetal/Ironic anyone <submit a talk>
+18:10 - 18:25 Saltstack - <submit your name>
+<FOOD>
+19:00 - 19:15 Using Ansible - <submit your name>
+19:20 - 19:35 moar
+19:40 - 19:55 even more moar
+<Freestyle [rh]acking on whatever you fancy>
+
