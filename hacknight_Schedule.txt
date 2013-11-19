@@ -1,5 +1,5 @@
 17:30 - 17:45 Getting started with Core API and Python :: Andy Moore
-17:50 - 18:05 Nova Baremetal/Ironic anyone <submit a talk>
+17:50 - 18:10 A quick intro to Elixir (http://elixir-lang.org/)
 18:10 - 18:25 Saltstack - <submit your name>
 <FOOD>
 19:00 - 19:15 Using Ansible - <submit your name>
